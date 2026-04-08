@@ -13,10 +13,10 @@ This project focuses on analyzing digital marketing performance using funnel met
 
 ---
 
-## 📂 Dataset
-**Source:** [Marketing_Analysis](https://github.com/jaysharma03/FUTURE_DS_03/raw/main/Marketing_Funnel_Analysis_Task3.pbix)  
-
-🔑**Key Attributes**: Region, Product, Marketing Channel, Quarter, Spend, Clicks , Conversions, Revenue, Impressions  
+🔑**Key Attributes**: 
+- Region, Product, Marketing
+- Channel, Quarter, Spend, Clicks
+- Conversions, Revenue, Impressions  
 
 ---
 
@@ -81,8 +81,9 @@ This project focuses on analyzing digital marketing performance using funnel met
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard](https://github.com/jaysharma03/FUTURE_DS_03/blob/main/Marketing_Analysis_Task3.JPG)
+<img width="1373" height="796" alt="Marketing_Funnel_Analysis_Task3" src="https://github.com/user-attachments/assets/fc103c0f-27b7-4280-bef8-05cff8d08148" />
+
 
 ---
 ## 📌 Author
-Jay Sharma
+Rahul Sonawane
